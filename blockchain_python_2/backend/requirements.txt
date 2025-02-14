@@ -1,0 +1,6 @@
+fastapi
+requests
+uvicorn
+python-dotenv
+strawberry-graphql[fastapi]
+autopep8
